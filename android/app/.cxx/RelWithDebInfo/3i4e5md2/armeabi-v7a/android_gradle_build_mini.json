@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/melinadwisafitri/Documents/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/melinadwisafitri/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/melinadwisafitri/iCloud Drive (Archive)/Documents/learn/free/card_scanner/android/app/.cxx/RelWithDebInfo/3i4e5md2/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/melinadwisafitri/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/melinadwisafitri/iCloud Drive (Archive)/Documents/learn/free/card_scanner/android/app/.cxx/RelWithDebInfo/3i4e5md2/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,2 @@
+/Users/melinadwisafitri/iCloud Drive (Archive)/Documents/learn/free/card_scanner/android/app/.cxx/RelWithDebInfo/3i4e5md2/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/melinadwisafitri/iCloud Drive (Archive)/Documents/learn/free/card_scanner/android/app/.cxx/RelWithDebInfo/3i4e5md2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
